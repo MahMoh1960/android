@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "dummy-project",
+    "storage_bucket": "dummy-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:aaaaaaaaaaaaaaaa",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android"
+        }
+      },
+      "api_key": [{ "current_key": "dummy-key" }],
+      "services": {}
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:bbbbbbbbbbbbbbbb",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.debug"
+        }
+      },
+      "api_key": [{ "current_key": "dummy-key" }],
+      "services": {}
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:cccccccccccccccc",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.minimal"
+        }
+      },
+      "api_key": [{ "current_key": "dummy-key" }],
+      "services": {}
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:dddddddddddddddd",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.minimal.debug"
+        }
+      },
+      "api_key": [{ "current_key": "dummy-key" }],
+      "services": {}
+    }
+  ],
+  "configuration_version": "1"
+}
